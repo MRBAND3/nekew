@@ -1,0 +1,6 @@
+owner=325130943025119233
+prefix=V1
+game=Volcano Music | V1play
+stayinchannel=true
+songinstatus=false
+token=NTkwNzAxMjgxMjExODQyNTkx.XQmD0g.Q0hexVQCMDUlJG_GOS56uzUbvKU
